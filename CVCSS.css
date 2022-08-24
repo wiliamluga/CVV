@@ -1,0 +1,120 @@
+body{
+	margin: 0;
+	padding:0;
+}
+
+.left-container {
+	position: fixed;
+	width: 400px;
+	height: 100vh;
+	background-color: #946363;
+}
+
+.right-container {
+	position: absolute;
+	left: 400px;
+	
+
+}
+
+.photo-contact {
+	position: absolute;
+	top: 100px;
+	text-align: center;
+}
+
+.photo {
+	width: 50%;
+	border-radius: 50%;
+}
+
+.bttn {
+	width: 50%;
+	background-color: white;
+	border-radius: 15px;
+	margin-bottom: 14px;
+	font-size: 1.1rem;
+	font-weight: bold;
+	padding: 10px;
+}
+
+.bttn:hover {
+	background-color: black;
+	color: white;
+	transition: 1s;
+}
+
+.top-bar{
+	padding-top: 50px;
+	padding-left: 50px;
+}
+
+.cvv {
+	font-size: 1.2rem;
+	font-weight: bold;
+	font-family: algerian;
+}
+
+.list-menu {
+	float: right;
+	padding-right: 50px;
+}
+
+.menu {
+	font-size: 1.1rem;
+	padding: 0 15px;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+p, li {
+	line-height: 200%;
+}
+
+#profile {
+	padding-left: 50px;
+	padding-top: 100px;
+}
+
+#about {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 100px;
+	
+}
+
+#experience {
+	padding-left: 50px;
+	padding-top: 100px;
+	
+}
+
+#contact {
+	padding-left: 50px;
+	padding-top: 100px;
+	
+}
+
+#achievements {
+	padding-left: 50px;
+	padding-top: 100px;
+}
+
+#footer {
+	padding-top: 100px ;
+	
+}
+
+
+
+
+
+
+
